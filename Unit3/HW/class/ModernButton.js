@@ -10,4 +10,3 @@ class ModernButton extends Button {
 
 let btn2 = new ModernButton(100, 100, 'blue', 'Push me', 100);
 btn2.render();
-// console.log(btn2);
