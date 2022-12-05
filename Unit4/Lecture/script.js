@@ -39,7 +39,6 @@ class User {
 
     }
 }
-
 class Person extends User {
     constructor(name) {
         super();
