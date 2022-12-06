@@ -55,7 +55,7 @@ class GridView {
      * Method to show GridViewTable
      */
 
-    render() {
+    render(data) {
         // show header
         if (this._header) {
             const header = document.createElement('h1');
